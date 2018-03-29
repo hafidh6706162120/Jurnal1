@@ -35,4 +35,4 @@ public class Jurnal1 {
 			f = fibo(n-1) + fibo(n-2);
 		return f;
 	}
-}
+}rico gahnteng
